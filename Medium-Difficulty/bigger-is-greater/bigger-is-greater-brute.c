@@ -10,6 +10,7 @@
 
 char* readline();
 
+
 // Complete the biggerIsGreater function below.
 
 // Please either make the string static or allocate on the heap. For example,
